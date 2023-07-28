@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @yukisoo, my user it's the combination of the name of korean singer kyungsoo, from boy group exo and yukika teramoto, japanese singer known for her style of city pop music, i love them so much!!!
--
+- 👋 Hi, I’m @yukisoo
 - 👀 I’m interested in everything about programming.
-
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on programmers who can help me in my beginning as a programmer.
-- 📫 How to reach me @/larougi on twt
+- 📫 How to reach me @/larougi on twt,where I try to be active.
 
 <!---
 yukisoo/yukisoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
